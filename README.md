@@ -1,2 +1,2 @@
 # candy_crush
-game
+cli based candy crush game
