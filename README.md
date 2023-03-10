@@ -1,5 +1,4 @@
 # candy_crush
 cli based candy crush game!
 
-
-![candy](https://user-images.githubusercontent.com/111035307/224273492-34c8e964-6205-450c-be08-bff3c2ea8ef4.gif)
+![candy2](https://user-images.githubusercontent.com/111035307/224275329-0bbbb7cf-a2c4-4278-8bc9-32b968ad240f.gif)
